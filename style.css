@@ -224,8 +224,7 @@ span.notif{
 }
 
 .actions {
-  display: flex;
-  /*gap: 6px;*/
+  display: flex; 
   gap: var(--space-xs);
   flex-shrink: 0;
 }
