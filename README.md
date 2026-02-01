@@ -1,1 +1,1 @@
-ini adalah projek aplikasi untuk mencatat apa saja list yang mau di lakuin dalam hari ini, atau masa akan datang
+aplikasi ini di buat atau berguna untuk mencatat list kegiatan apa saja yang mau kita lakukan di hari ini . kita dapat menambah, mengedit, dan hapus list yang sudah di buat. serta ada fitur centang untuk menandai kegiatan yang sudah selesai di lakukan.
